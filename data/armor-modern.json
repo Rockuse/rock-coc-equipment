@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Motorcycle Leather Jacket",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Motorcycle Leather Jacket</strong> — Abrasion-resistant leather outerwear.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Motorcycle Helmet",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Motorcycle Helmet</strong> — Head protection only.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 2 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 2,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Construction Hard Hat",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Construction Hard Hat</strong> — Protection from falling objects, not ballistic attacks.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Riot Helmet",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Riot Helmet</strong> — Head and face protection.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 2 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 2,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Riot Shield",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Riot Shield</strong> — Handheld cover, situational.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 3 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 3,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Soft Ballistic Vest",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Soft Ballistic Vest</strong> — Protection primarily against handgun threats.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 3 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 3,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Concealable Ballistic Vest",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Concealable Ballistic Vest</strong> — Lightweight protective vest.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 3 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 3,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Tactical Plate Carrier",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tactical Plate Carrier</strong> — Rigid plate protection over covered torso.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 6 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 6,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Heavy Ballistic Vest",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Heavy Ballistic Vest</strong> — Heavy torso protection with rigid inserts.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 7 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 7,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Ballistic Helmet",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Ballistic Helmet</strong> — Protective headgear.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 4 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 4,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Bomb Disposal Suit",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bomb Disposal Suit</strong> — Bulky specialized protection, situational.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 10 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 10,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Cut-Resistant Gloves",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Cut-Resistant Gloves</strong> — Hand protection only.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  }
+]

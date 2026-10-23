@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Leather Jerkin",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Leather Jerkin</strong> — Flexible leather torso protection.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Padded Gambeson",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Padded Gambeson</strong> — Quilted textile torso protection.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Chainmail Shirt",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Chainmail Shirt</strong> — Heavy metal-link armor, conspicuous and cumbersome.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 3 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 3,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Steel Breastplate",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Steel Breastplate</strong> — Rigid metal torso protection.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 5 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 5,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Steel Helmet",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Steel Helmet</strong> — Head protection only.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 2 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 2,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Leather Riding Coat",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Leather Riding Coat</strong> — Thick protective outerwear.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 1 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 1,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Improvised Wooden Shield",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Improvised Wooden Shield</strong> — Situational handheld cover.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 2 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 2,
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Early Ballistic Vest",
+    "type": "armor",
+    "img": "icons/svg/shield.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Early Ballistic Vest</strong> — Uncommon early protective garment.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><strong>Suggested protection:</strong> 3 points, only for the covered area and relevant attacks. This is a Keeper reference, not an automated armor effect.</p>",
+        "keeper": ""
+      }
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "suggestedArmor": 3,
+        "mechanicsReview": true
+      }
+    }
+  }
+]

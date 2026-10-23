@@ -1,0 +1,3377 @@
+[
+  {
+    "name": "Tactical Folding Knife",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tactical Folding Knife</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Combat Knife",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Combat Knife</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Machete",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Machete</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Utility Hatchet",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Utility Hatchet</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Axe)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Axe)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Telescopic Baton",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Telescopic Baton</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Riot Baton",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Riot Baton</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Tactical Tomahawk",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tactical Tomahawk</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Axe)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Axe)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Stun Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Stun Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D3"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Taser",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Taser</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "5",
+          "damage": "1D3"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Pepper Spray",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pepper Spray</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "2",
+          "damage": "0"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Compound Bow",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Compound Bow</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Bow)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "40",
+          "damage": "1D8+DB/2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": true,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Bow)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Crossbow",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Crossbow</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Bow)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "40",
+          "damage": "1D8+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Bow)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Air Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Air Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "30",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Paintball Marker",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Paintball Marker</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "25",
+          "damage": "1D3"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 100,
+      "ammo": 100,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "9mm Compact Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>9mm Compact Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 12,
+      "ammo": 12,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "9mm Service Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>9mm Service Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 17,
+      "ammo": 17,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".45 ACP Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.45 ACP Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 8,
+      "ammo": 8,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".40 S&W Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.40 S&amp;W Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10+1"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 15,
+      "ammo": 15,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".357 Magnum Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.357 Magnum Revolver</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D8+1D4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".44 Magnum Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.44 Magnum Revolver</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10+1D4+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".22 Target Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.22 Target Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 10,
+      "ammo": 10,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Machine Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Machine Pistol</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Submachine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 20,
+      "ammo": 20,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Submachine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "9mm Submachine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>9mm Submachine Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Submachine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "20",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 30,
+      "ammo": 30,
+      "malfunction": 97,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Submachine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Compact Submachine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Compact Submachine Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Submachine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 30,
+      "ammo": 30,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Submachine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "5.56mm Carbine",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>5.56mm Carbine</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "100",
+          "damage": "2D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 30,
+      "ammo": 30,
+      "malfunction": 97,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "5.56mm Assault Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>5.56mm Assault Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "110",
+          "damage": "2D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 30,
+      "ammo": 30,
+      "malfunction": 97,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "7.62mm Assault Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>7.62mm Assault Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "100",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 30,
+      "ammo": 30,
+      "malfunction": 97,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "7.62mm Battle Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>7.62mm Battle Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "110",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 20,
+      "ammo": 20,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Bolt-Action Sniper Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bolt-Action Sniper Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "150",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 5,
+      "ammo": 5,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Semi-Automatic Marksman Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Semi-Automatic Marksman Rifle</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "130",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 20,
+      "ammo": 20,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "12-Gauge Pump Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>12-Gauge Pump Shotgun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "4D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "12-Gauge Semi-Auto Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>12-Gauge Semi-Auto Shotgun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "4D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 8,
+      "ammo": 8,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "20-Gauge Sporting Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>20-Gauge Sporting Shotgun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "2D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 2,
+      "ammo": 2,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": true,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Beanbag Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Beanbag Shotgun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 5,
+      "ammo": 5,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Light Machine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Light Machine Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Machine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "110",
+          "damage": "2D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 100,
+      "ammo": 100,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": true,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Machine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "General-Purpose Machine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>General-Purpose Machine Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Machine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "120",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 100,
+      "ammo": 100,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": true,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Machine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Flare Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Flare Gun</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": true
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Signal Flare",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Signal Flare</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "1D4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": true
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Flashbang Grenade",
+    "type": "weapon",
+    "img": "icons/svg/explosion.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Flashbang Grenade</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "0"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": true,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Smoke Grenade",
+    "type": "weapon",
+    "img": "icons/svg/explosion.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Smoke Grenade</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "0"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": true,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Fragmentation Grenade",
+    "type": "weapon",
+    "img": "icons/svg/explosion.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Fragmentation Grenade</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "4D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": true,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Tear Gas Canister",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tear Gas Canister</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "0"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": true,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Underbarrel Grenade Launcher",
+    "type": "weapon",
+    "img": "icons/svg/explosion.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Underbarrel Grenade Launcher</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Heavy Weapons)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "40",
+          "damage": "4D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": true,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Heavy Weapons)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Single-Shot Grenade Launcher",
+    "type": "weapon",
+    "img": "icons/svg/explosion.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Single-Shot Grenade Launcher</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Heavy Weapons)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "50",
+          "damage": "4D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": true,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Heavy Weapons)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Flamethrower",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Flamethrower</strong> — A weapon suitable for modern investigations.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Heavy Weapons)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "20",
+          "damage": "2D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 10,
+      "ammo": 10,
+      "malfunction": 93,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": true
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "skillName": "Firearms (Heavy Weapons)",
+        "mechanicsReview": true
+      }
+    }
+  }
+]

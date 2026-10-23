@@ -1,0 +1,3377 @@
+[
+  {
+    "name": "Pocket Knife",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pocket Knife</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Hunting Knife",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Hunting Knife</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Kitchen Knife",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Kitchen Knife</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Straight Razor",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Straight Razor</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Dagger",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Dagger</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+2+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Cane Sword",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Cane Sword</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Sword)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Sword)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Cavalry Saber",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Cavalry Saber</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Sword)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Sword)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Rapier",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Rapier</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Sword)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Sword)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Cutlass",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Cutlass</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Sword)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Sword)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Bayonet",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bayonet</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Walking Cane",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Walking Cane</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Club",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Club</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Blackjack",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Blackjack</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D4+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": true,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Brass Knuckles",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Brass Knuckles</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D3+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Hatchet",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Hatchet</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Axe)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Axe)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Wood Axe",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Wood Axe</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Axe)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Axe)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Fire Axe",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Fire Axe</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Axe)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Axe)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Pickaxe",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pickaxe</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Shovel",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Shovel</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Crowbar",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Crowbar</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Sledgehammer",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Sledgehammer</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D10+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Whip",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Whip</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Whip)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D3"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Whip)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Garrote",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Garrote</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Garrote)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": true,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Garrote)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Spear",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Spear</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Spear)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D8+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Spear)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Truncheon",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Truncheon</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Fighting (Brawl)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "1",
+          "damage": "1D6+DB"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": false,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": true,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Fighting (Brawl)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".22 Pocket Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.22 Pocket Revolver</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".32 Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.32 Revolver</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D8"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".38 Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.38 Revolver</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": ".45 Revolver",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>.45 Revolver</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 6,
+      "ammo": 6,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Colt M1911 Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Colt M1911 Pistol</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 7,
+      "ammo": 7,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Mauser C96 Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Mauser C96 Pistol</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "20",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 10,
+      "ammo": 10,
+      "malfunction": 98,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Luger P08 Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Luger P08 Pistol</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "15",
+          "damage": "1D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 8,
+      "ammo": 8,
+      "malfunction": 99,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Derringer",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Derringer</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "5",
+          "damage": "1D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 2,
+      "ammo": 2,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Flintlock Pistol",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Flintlock Pistol</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Handgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "1D6+1"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 95,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": true,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Handgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Flintlock Musket",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Flintlock Musket</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "30",
+          "damage": "1D10+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 1,
+      "ammo": 1,
+      "malfunction": 95,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": true,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Lever-Action Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Lever-Action Rifle</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "90",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 7,
+      "ammo": 7,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Bolt-Action Hunting Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bolt-Action Hunting Rifle</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "110",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 5,
+      "ammo": 5,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Military Bolt-Action Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Military Bolt-Action Rifle</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "110",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 5,
+      "ammo": 5,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": true,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Double-Barreled Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Double-Barreled Shotgun</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "4D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 2,
+      "ammo": 2,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": true,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Pump-Action Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pump-Action Shotgun</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "4D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 5,
+      "ammo": 5,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Sawed-Off Shotgun",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Sawed-Off Shotgun</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Rifle/Shotgun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "5",
+          "damage": "4D6"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 2,
+      "ammo": 2,
+      "malfunction": 100,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": true,
+        "dbrl": true,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Rifle/Shotgun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Thompson Submachine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Thompson Submachine Gun</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Submachine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "20",
+          "damage": "1D10+2"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 20,
+      "ammo": 20,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Submachine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Browning Automatic Rifle",
+    "type": "weapon",
+    "img": "icons/svg/target.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Browning Automatic Rifle</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Machine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "90",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 20,
+      "ammo": 20,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Machine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Maxim Machine Gun",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Maxim Machine Gun</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Firearms (Machine Gun)",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "100",
+          "damage": "2D6+4"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": 250,
+      "ammo": 250,
+      "malfunction": 96,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": false,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": true,
+        "auto": true,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": true,
+        "blst": false,
+        "stun": false,
+        "rare": false,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Firearms (Machine Gun)",
+        "mechanicsReview": true
+      }
+    }
+  },
+  {
+    "name": "Dynamite Stick",
+    "type": "weapon",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Dynamite Stick</strong> — A weapon suitable for classic investigations.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p>",
+        "special": "Keeper: confirm damage, availability, skill specialization and effects before play.",
+        "keeper": ""
+      },
+      "skill": {
+        "main": {
+          "name": "Throw",
+          "id": ""
+        },
+        "alternativ": {
+          "name": "",
+          "id": ""
+        }
+      },
+      "range": {
+        "normal": {
+          "value": "10",
+          "damage": "4D10"
+        },
+        "long": {
+          "value": "",
+          "damage": ""
+        },
+        "extreme": {
+          "value": "",
+          "damage": ""
+        }
+      },
+      "usesPerRound": {
+        "normal": "1",
+        "max": "",
+        "burst": ""
+      },
+      "bullets": null,
+      "ammo": 0,
+      "malfunction": null,
+      "blastRadius": null,
+      "properties": {
+        "rngd": true,
+        "mnvr": false,
+        "thrown": true,
+        "shotgun": false,
+        "dbrl": false,
+        "impl": false,
+        "brst": false,
+        "auto": false,
+        "ahdb": false,
+        "addb": false,
+        "slnt": false,
+        "spcl": false,
+        "mont": false,
+        "blst": true,
+        "stun": false,
+        "rare": true,
+        "burn": false
+      },
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "skillName": "Throw",
+        "mechanicsReview": true
+      }
+    }
+  }
+]

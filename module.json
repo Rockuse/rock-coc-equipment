@@ -1,0 +1,27 @@
+{
+  "id": "coc7-universal-equipment",
+  "title": "CoC7 Universal Equipment \u2014 Native Roll Detection v1.7.7",
+  "description": "Consumables catalog, native CoC7 medical rolls, GM-confirmed healing, resource tracking and GM-controlled timed effects.",
+  "version": "1.7.7",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {
+          "minimum": "8.16"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/install.mjs",
+    "scripts/lights.mjs",
+    "scripts/usable.mjs",
+    "scripts/temporary.mjs"
+  ]
+}

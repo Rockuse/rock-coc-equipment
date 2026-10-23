@@ -1,0 +1,3863 @@
+[
+  {
+    "name": "Oil Lantern",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Oil Lantern</strong> — Light source using lamp oil.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1.0 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.9,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.0,
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#FFB347",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Kerosene Lamp",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Kerosene Lamp</strong> — Portable indoor lighting.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.5,
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#FFAA55",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 480,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Box of Matches",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Box of Matches</strong> — Small fire-starting supply.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.05 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.05,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.05,
+        "light": {
+          "bright": 5,
+          "dim": 10,
+          "color": "#FF9944",
+          "angle": 360,
+          "priority": 0,
+          "durationMinutes": 1,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Candle Bundle",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Candle Bundle</strong> — Short-duration light source.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.1 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.1,
+        "light": {
+          "bright": 5,
+          "dim": 10,
+          "color": "#FFC46B",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 60,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Magnifying Glass",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Magnifying Glass</strong> — Examine small marks and writing.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "Pocket Watch",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pocket Watch</strong> — Mechanical timepiece.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 3 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 3.0
+      }
+    }
+  },
+  {
+    "name": "Compass",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Compass</strong> — Magnetic direction finding.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Field Binoculars",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Field Binoculars</strong> — Distant observation.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 12 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.8,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 12.0
+      }
+    }
+  },
+  {
+    "name": "Monocular",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Monocular</strong> — Compact optical aid.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Surveyor's Map",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Surveyor&#x27;s Map</strong> — Local geographical reference.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.0
+      }
+    }
+  },
+  {
+    "name": "Leather Satchel",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Leather Satchel</strong> — Carry small equipment.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 3 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.7,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 3.0
+      }
+    }
+  },
+  {
+    "name": "Travel Trunk",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Travel Trunk</strong> — Storage for luggage.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 5.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Leather Journal",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Leather Journal</strong> — Record notes and clues.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "Fountain Pen",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Fountain Pen</strong> — Ink writing instrument.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.03,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.0
+      }
+    }
+  },
+  {
+    "name": "Bottle of Ink",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Bottle of Ink</strong> — Refill writing instruments.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.2
+      }
+    }
+  },
+  {
+    "name": "Typewriter",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Typewriter</strong> — Mechanical typed correspondence.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 35 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 10.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 35.0
+      }
+    }
+  },
+  {
+    "name": "Carbon Paper Pack",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Carbon Paper Pack</strong> — Duplicate typed documents.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "Wax Seal Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Wax Seal Kit</strong> — Seal letters and evidence.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.4,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Letter Opener",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Letter Opener</strong> — Open correspondence.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "Handcuffs",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Handcuffs</strong> — Mechanical restraints.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 3 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 3.0
+      }
+    }
+  },
+  {
+    "name": "Rope (15 m)",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Rope (15 m)</strong> — General climbing and securing.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Grappling Hook",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Grappling Hook</strong> — Anchor for rope.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Crowbar Tool",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Crowbar Tool</strong> — Prying and leverage.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 2.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Hammer",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Hammer</strong> — Basic hand tool.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.8,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.0
+      }
+    }
+  },
+  {
+    "name": "Screwdriver Set",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Screwdriver Set</strong> — Basic repair tool.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Locksmith Tools",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Locksmith Tools</strong> — Specialist lock work.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.4,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "Shovel Tool",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Shovel Tool</strong> — Excavation.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 2.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 2.0
+      }
+    }
+  },
+  {
+    "name": "Pickaxe Tool",
+    "type": "item",
+    "img": "icons/svg/sword.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Pickaxe Tool</strong> — Rock and earth work.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 3 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 3.0
+      }
+    }
+  },
+  {
+    "name": "Pocket First-Aid Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Portable kit for First Aid; five charges.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 3.0
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "firstaid",
+          "era": "both",
+          "uses": 5,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Doctor's Bag",
+    "type": "item",
+    "img": "icons/svg/heart.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Doctor&#x27;s Bag</strong> — Portable medical instruments.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 15 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 15.0
+      }
+    }
+  },
+  {
+    "name": "Stethoscope",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Stethoscope</strong> — Medical examination.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 4 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 4.0
+      }
+    }
+  },
+  {
+    "name": "Surgical Instrument Roll",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Surgical Instrument Roll</strong> — Sterile instruments where available.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 12 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 12.0
+      }
+    }
+  },
+  {
+    "name": "Bandage Roll",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Wound dressing or bleeding control; First Aid roll.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.2,
+        "consumable": {
+          "kind": "quantity",
+          "capacity": 1
+        }
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "firstaid",
+          "era": "both",
+          "uses": 5,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Antiseptic Bottle",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Antiseptic Bottle</strong> — Clean wounds.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "Glass Specimen Jar",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Glass Specimen Jar</strong> — Preserve samples.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.4 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.4
+      }
+    }
+  },
+  {
+    "name": "Fingerprint Powder Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Fingerprint Powder Kit</strong> — Basic forensic fingerprint collection.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 8 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.8,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 8.0
+      }
+    }
+  },
+  {
+    "name": "Glass Slide Case",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Glass Slide Case</strong> — Hold microscope slides.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 1.0
+      }
+    }
+  },
+  {
+    "name": "Portable Microscope",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Microscope</strong> — Field specimen inspection.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 25 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 25.0
+      }
+    }
+  },
+  {
+    "name": "Plate Camera",
+    "type": "item",
+    "img": "icons/svg/eye.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Plate Camera</strong> — Early photographic equipment.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 30 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 6.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 30.0
+      }
+    }
+  },
+  {
+    "name": "Photographic Plates",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Photographic Plates</strong> — Consumable photographic plates.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Darkroom Chemical Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Darkroom Chemical Kit</strong> — Develop exposed photographic plates.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 8 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 8.0
+      }
+    }
+  },
+  {
+    "name": "Telegraph Key",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Telegraph Key</strong> — Telegraph sending apparatus.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "Field Telephone",
+    "type": "item",
+    "img": "icons/svg/sound.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Field Telephone</strong> — Portable wired communication.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 18 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 18.0
+      }
+    }
+  },
+  {
+    "name": "Whistle",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Whistle</strong> — Audible signaling.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.2 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.05,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.2
+      }
+    }
+  },
+  {
+    "name": "Signal Mirror",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Signal Mirror</strong> — Reflect light for signals.</p><p><em>Era:</em> Classic. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 0.5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Classic",
+        "illustrativeCost": 0.5
+      }
+    }
+  },
+  {
+    "name": "LED Flashlight",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>LED Flashlight</strong> — Battery-powered illumination.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0,
+        "light": {
+          "bright": 30,
+          "dim": 60,
+          "color": "#E7F2FF",
+          "angle": 65,
+          "priority": 3,
+          "durationMinutes": 480,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Headlamp",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Headlamp</strong> — Hands-free illumination.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 15 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.15,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 15.0,
+        "light": {
+          "bright": 25,
+          "dim": 50,
+          "color": "#EAF5FF",
+          "angle": 100,
+          "priority": 3,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Spare Batteries",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Spare Batteries</strong> — Power for portable devices.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Digital Camera",
+    "type": "item",
+    "img": "icons/svg/eye.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Digital Camera</strong> — Photograph evidence.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 200 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 200.0
+      }
+    }
+  },
+  {
+    "name": "Instant Camera",
+    "type": "item",
+    "img": "icons/svg/eye.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Instant Camera</strong> — Produce immediate prints.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 90 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.6,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 90.0
+      }
+    }
+  },
+  {
+    "name": "Audio Recorder",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Audio Recorder</strong> — Record interviews and sounds.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 40 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.15,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 40.0
+      }
+    }
+  },
+  {
+    "name": "Body Camera",
+    "type": "item",
+    "img": "icons/svg/eye.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Body Camera</strong> — Wearable video recorder.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 120 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 120.0
+      }
+    }
+  },
+  {
+    "name": "Smartphone",
+    "type": "item",
+    "img": "icons/svg/sound.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Smartphone</strong> — Modern communication and computing.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 400 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 400.0
+      }
+    }
+  },
+  {
+    "name": "Satellite Phone",
+    "type": "item",
+    "img": "icons/svg/sound.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Satellite Phone</strong> — Communication outside cellular coverage.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 700 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 700.0
+      }
+    }
+  },
+  {
+    "name": "Two-Way Radio",
+    "type": "item",
+    "img": "icons/svg/sound.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Two-Way Radio</strong> — Short-range radio communication.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 80 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 80.0
+      }
+    }
+  },
+  {
+    "name": "GPS Receiver",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>GPS Receiver</strong> — Satellite-based positioning.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 150 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 150.0
+      }
+    }
+  },
+  {
+    "name": "Laptop Computer",
+    "type": "item",
+    "img": "icons/svg/book.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Laptop Computer</strong> — Portable computing.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 800 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 800.0
+      }
+    }
+  },
+  {
+    "name": "Tablet Computer",
+    "type": "item",
+    "img": "icons/svg/book.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Tablet Computer</strong> — Portable touchscreen computer.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 300 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 300.0
+      }
+    }
+  },
+  {
+    "name": "USB Flash Drive",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>USB Flash Drive</strong> — Digital file storage.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.02,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "External Hard Drive",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>External Hard Drive</strong> — Portable data storage.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 75 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 75.0
+      }
+    }
+  },
+  {
+    "name": "Portable Power Bank",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Power Bank</strong> — Recharge portable electronics.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 30 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 30.0
+      }
+    }
+  },
+  {
+    "name": "Charging Cable Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Charging Cable Kit</strong> — Common device charging cables.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "Ethernet Cable",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Ethernet Cable</strong> — Wired network connection.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Digital Multimeter",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Digital Multimeter</strong> — Measure basic electrical quantities.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 35 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.4,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 35.0
+      }
+    }
+  },
+  {
+    "name": "Electronics Repair Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Electronics Repair Kit</strong> — Small electronic repair tools.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 50 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 50.0
+      }
+    }
+  },
+  {
+    "name": "Portable Forensic Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Forensic Kit</strong> — Collect and preserve physical evidence.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 200 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 200.0
+      }
+    }
+  },
+  {
+    "name": "Evidence Bags",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Evidence Bags</strong> — Seal and label collected evidence.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "Fingerprint Lifting Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Fingerprint Lifting Kit</strong> — Develop and lift fingerprints.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 75 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 75.0
+      }
+    }
+  },
+  {
+    "name": "UV Flashlight",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>UV Flashlight</strong> — Inspect UV-reactive materials.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 25 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 25.0,
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#9C6CFF",
+          "angle": 65,
+          "priority": 3,
+          "durationMinutes": 240,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Portable DNA Sample Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable DNA Sample Kit</strong> — Collect biological samples.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 40 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.4,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 40.0
+      }
+    }
+  },
+  {
+    "name": "Trauma First-Aid Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Emergency stabilization; First Aid roll, not automatic healing.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 100.0
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "firstaid",
+          "era": "both",
+          "uses": 5,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Medical Gloves Pack",
+    "type": "item",
+    "img": "icons/svg/heart.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Medical Gloves Pack</strong> — Disposable protective gloves.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0,
+        "consumable": {
+          "kind": "quantity",
+          "capacity": 1
+        }
+      }
+    }
+  },
+  {
+    "name": "N95 Respirator",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>N95 Respirator</strong> — Particle filtration face covering.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 4 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.05,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 4.0
+      }
+    }
+  },
+  {
+    "name": "Gas Mask",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Gas Mask</strong> — Respiratory protection with suitable filter.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 150 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 150.0
+      }
+    }
+  },
+  {
+    "name": "Digital Thermometer",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Digital Thermometer</strong> — Measure temperature.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 10 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.05,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 10.0
+      }
+    }
+  },
+  {
+    "name": "Portable Defibrillator",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Defibrillator</strong> — Emergency cardiac device.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 1000 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 2.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 1000.0
+      }
+    }
+  },
+  {
+    "name": "Thermal Blanket",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Thermal Blanket</strong> — Reduce heat loss.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Water Purification Filter",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Water Purification Filter</strong> — Filter drinking water.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 35 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 35.0
+      }
+    }
+  },
+  {
+    "name": "Portable Stove",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Stove</strong> — Camp cooking appliance.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 45 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.7,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 45.0
+      }
+    }
+  },
+  {
+    "name": "Camping Tent",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Camping Tent</strong> — Portable shelter.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 120 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 3.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 120.0
+      }
+    }
+  },
+  {
+    "name": "Sleeping Bag",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Sleeping Bag</strong> — Sleeping insulation.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 70 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 1.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 70.0
+      }
+    }
+  },
+  {
+    "name": "Climbing Harness",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Climbing Harness</strong> — Secure climber to rope.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 65 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.6,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 65.0
+      }
+    }
+  },
+  {
+    "name": "Carabiner Set",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Carabiner Set</strong> — Rated climbing connectors.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 20 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.3,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 20.0
+      }
+    }
+  },
+  {
+    "name": "Climbing Rope (30 m)",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Climbing Rope (30 m)</strong> — Dynamic climbing line.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 90 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 2.5,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 90.0
+      }
+    }
+  },
+  {
+    "name": "Multi-Tool",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Multi-Tool</strong> — Compact general tools.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 40 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.25,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 40.0
+      }
+    }
+  },
+  {
+    "name": "Duct Tape Roll",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Duct Tape Roll</strong> — Temporary repairs.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 6 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 6.0
+      }
+    }
+  },
+  {
+    "name": "Cable Ties Pack",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Cable Ties Pack</strong> — Fastening and organizing.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 5 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 5.0
+      }
+    }
+  },
+  {
+    "name": "Portable Tool Box",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Portable Tool Box</strong> — General maintenance tools.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 100 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 4.0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 100.0
+      }
+    }
+  },
+  {
+    "name": "Compact Drone",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Compact Drone</strong> — Remote aerial observation.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 450 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.8,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 450.0
+      }
+    }
+  },
+  {
+    "name": "Protective Goggles",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p><strong>Protective Goggles</strong> — Eye protection.</p><p><em>Era:</em> Modern. <em>Rules:</em> Homebrew reference values for CoC7 7e; Keeper adjudicates availability, costs and circumstances.</p><p><em>Illustrative cost:</em> 12 (not a historically normalized currency).</p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.0.0",
+        "homebrew": true,
+        "era": "Modern",
+        "illustrativeCost": 12.0
+      }
+    }
+  },
+  {
+    "name": "Single Candle",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Single Candle. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 60 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 5,
+          "dim": 10,
+          "color": "#FFC46B",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 60,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Wax Taper",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Wax Taper. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 45 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 5,
+          "dim": 10,
+          "color": "#FFCF85",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 45,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Oil Lamp",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Oil Lamp. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#FFAF55",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Hooded Lantern",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Hooded Lantern. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FFBA65",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Bullseye Lantern",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Bullseye Lantern. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 30,
+          "dim": 60,
+          "color": "#FFB45C",
+          "angle": 60,
+          "priority": 3,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Hand Torch (Burning)",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Hand Torch (Burning). Automatically illuminates a carried token. <em>Homebrew illumination values; duration 60 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FF8B35",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 60,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Firebrand",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Firebrand. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 30 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#FF8833",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 30,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Gas Lantern",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Gas Lantern. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 480 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 25,
+          "dim": 50,
+          "color": "#FFE2A3",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 480,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Carbide Lamp",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Carbide Lamp. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 240 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FFE5A8",
+          "angle": 140,
+          "priority": 2,
+          "durationMinutes": 240,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "1920s Flashlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>1920s Flashlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 120 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FFF2C9",
+          "angle": 65,
+          "priority": 2,
+          "durationMinutes": 120,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Modern Flashlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Modern Flashlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 480 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 30,
+          "dim": 60,
+          "color": "#EAF3FF",
+          "angle": 65,
+          "priority": 3,
+          "durationMinutes": 480,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Tactical Flashlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Tactical Flashlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 240 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 60,
+          "dim": 120,
+          "color": "#EDF6FF",
+          "angle": 40,
+          "priority": 4,
+          "durationMinutes": 240,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Penlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Penlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 120 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#F2F7FF",
+          "angle": 65,
+          "priority": 2,
+          "durationMinutes": 120,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Glow Stick (Green)",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Glow Stick (Green). Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#65FF7B",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Glow Stick (Red)",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Glow Stick (Red). Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#FF5B5B",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Glow Stick (Blue)",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Glow Stick (Blue). Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#57A7FF",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "LED Camping Lantern",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>LED Camping Lantern. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 720 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 30,
+          "dim": 60,
+          "color": "#FFF1D5",
+          "angle": 360,
+          "priority": 3,
+          "durationMinutes": 720,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Emergency Beacon",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Emergency Beacon. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 180 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#FF3737",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 180,
+          "animation": {
+            "type": "pulse",
+            "speed": 1,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Road Flare",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Road Flare. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 30 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FF5833",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 30,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Magnesium Flare",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Magnesium Flare. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 2 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 35,
+          "dim": 70,
+          "color": "#FFF5E5",
+          "angle": 360,
+          "priority": 4,
+          "durationMinutes": 2,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Phone Flashlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Phone Flashlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 180 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#F4F7FF",
+          "angle": 80,
+          "priority": 2,
+          "durationMinutes": 180,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Portable Floodlight",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Portable Floodlight. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 180 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 50,
+          "dim": 100,
+          "color": "#F2F6FF",
+          "angle": 110,
+          "priority": 4,
+          "durationMinutes": 180,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Oil Chandelier",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Oil Chandelier. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 300 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 20,
+          "dim": 40,
+          "color": "#FFC06C",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 300,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Camping Fire",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Camping Fire. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 120 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 30,
+          "dim": 60,
+          "color": "#FF913F",
+          "angle": 360,
+          "priority": 3,
+          "durationMinutes": 120,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Blue Flame Lantern",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Blue Flame Lantern. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#75B9FF",
+          "angle": 360,
+          "priority": 2,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Red Darkroom Lamp",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Red Darkroom Lamp. Automatically illuminates a carried token. <em>Homebrew illumination values; duration 360 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 10,
+          "dim": 20,
+          "color": "#FF3838",
+          "angle": 360,
+          "priority": 1,
+          "durationMinutes": 360,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 2,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Infrared Illuminator (Visible Simulation)",
+    "type": "item",
+    "img": "icons/svg/light.svg",
+    "system": {
+      "description": {
+        "value": "<p>Infrared Illuminator (Visible Simulation). Automatically illuminates a carried token. <em>Homebrew illumination values; duration 240 minutes is reference only, not automatically depleted.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0.2,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.3.0",
+        "homebrew": true,
+        "era": "Universal",
+        "light": {
+          "bright": 15,
+          "dim": 30,
+          "color": "#8D4AFF",
+          "angle": 65,
+          "priority": 3,
+          "durationMinutes": 240,
+          "animation": {
+            "type": "none",
+            "speed": 0,
+            "intensity": 0,
+            "reverse": false
+          }
+        }
+      }
+    }
+  },
+  {
+    "_id": "8b5d318090e96fef",
+    "name": "AA Battery Pack",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Replenishes compatible battery-powered equipment.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 4,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "battery"
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "refill",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "c41810fe04a12059",
+    "name": "Lantern Oil Flask",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Replenishes compatible oil lanterns.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 3,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "oil"
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "refill",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "c0b7423b8661aa97",
+    "name": "Gas Lantern Fuel Canister",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>One canister refills a gas lantern.</p>",
+        "keeper": ""
+      },
+      "quantity": 2,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "gas"
+      }
+    }
+  },
+  {
+    "_id": "bf6b907eb4a2bae2",
+    "name": "Spare Candle",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Consumable candle with limited burn duration.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 6,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "candles"
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "burn",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "93797a8e2e01f053",
+    "name": "Spare Torch",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Consumable hand torch; cannot be refueled.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 3,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "torch"
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "burn",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "a7ecc12bbfd5b752",
+    "name": "Match Refill",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Limited-use matches for lighting fires.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 5,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "supplyType": "matches"
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "refill",
+          "era": "both",
+          "uses": 10,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "165572917b7a1063",
+    "name": "First Aid Dressing",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Single-use wound dressing; First Aid roll, +1 HP only if eligible.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 5,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "consumable": {
+          "kind": "quantity",
+          "capacity": 5
+        }
+      },
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "firstaid",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "_id": "704a8e8d57b75e48",
+    "name": "Antiseptic Wipe",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Single-use antiseptic; no automatic healing bonus.</p>",
+        "keeper": ""
+      },
+      "quantity": 10,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "consumable": {
+          "kind": "quantity",
+          "capacity": 10
+        }
+      }
+    }
+  },
+  {
+    "_id": "41135b7c2cb28387",
+    "name": "Sterile Gauze Pad",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Single-use gauze pad; no automatic healing bonus.</p>",
+        "keeper": ""
+      },
+      "quantity": 8,
+      "weight": 0.1,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7UniversalEquipment": {
+        "version": "1.4.0",
+        "consumable": {
+          "kind": "quantity",
+          "capacity": 8
+        }
+      }
+    }
+  },
+  {
+    "name": "Doctor's Medical Bag",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Reusable medical tools; First Aid or Medicine roll.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "medicine",
+          "era": "both",
+          "uses": null,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Antiseptic Supplies",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Supports treatment; no direct HP restoration.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "firstaid",
+          "era": "both",
+          "uses": 5,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Surgical Supplies",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Medicine roll and Keeper approval required.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "medicine",
+          "era": "both",
+          "uses": 3,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Healing Tonic",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Supernatural homebrew; optional 1d3 HP, Keeper-approved.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "direct-heal",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "healFormula": "1d3"
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Adrenaline Injection",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: DEX +20 for 5 minutes, then DEX -20 for 10 minutes.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 300,
+            "modifiers": {
+              "dex": 20
+            },
+            "after": {
+              "durationSeconds": 600,
+              "modifiers": {
+                "dex": -20
+              }
+            }
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Energy Drink",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: +10 to fatigue-resistance checks for 30 minutes.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 1800,
+            "rollBonus": {
+              "fatigue": 10
+            }
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Strong Coffee",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: +10 to alertness-related checks for 60 minutes.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 3600,
+            "rollBonus": {
+              "alertness": 10
+            }
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Stimulant Tablets",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: +1 bonus die to one approved check during 15 minutes.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 900,
+            "bonusDice": 1
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Painkillers",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: suppress a GM-designated wound penalty for 60 minutes; does not heal.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 3600,
+            "suppress": "keeper-selected wound penalty"
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Sedative",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Homebrew: +1 bonus die to approved panic resistance; -20 DEX for 30 minutes.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "timed",
+          "era": "both",
+          "uses": 1,
+          "effect": {
+            "durationSeconds": 1800,
+            "modifiers": {
+              "dex": -20
+            },
+            "bonusDice": 1
+          },
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Water Flask",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Water supply; Keeper tracks hydration effects.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "resource",
+          "era": "both",
+          "uses": 5,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Antidote",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Poison-specific antidote; Keeper determines applicability.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "special",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Antitoxin Kit",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Medical intervention for toxin exposure; Medicine roll.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "medicine",
+          "era": "both",
+          "uses": 2,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Smelling Salts",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>May rouse eligible unconscious characters, Keeper approval.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "special",
+          "era": "both",
+          "uses": 3,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Oxygen Canister",
+    "type": "item",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+      "description": {
+        "value": "<p>Limited breathing supply; Keeper adjudicates duration.</p><p><em>Keeper adjudication required; homebrew modifiers are optional.</em></p>",
+        "keeper": ""
+      },
+      "quantity": 1,
+      "weight": 0,
+      "price": {}
+    },
+    "effects": [],
+    "flags": {
+      "coc7-universal-equipment": {
+        "consumable": {
+          "kind": "resource",
+          "era": "both",
+          "uses": 1,
+          "effect": {},
+          "requiresGM": true
+        }
+      }
+    }
+  }
+]
